@@ -26,7 +26,11 @@ export {
   BLIND_PEERS_FORM_NAME
 } from './constants/blindPeers'
 
-export { PROTECTED_VAULT_ENABLED, AUTO_LOCK_ENABLED } from './constants/flags'
+export {
+  PROTECTED_VAULT_ENABLED,
+  AUTO_LOCK_ENABLED,
+  SAVE_CREDENTIALS_AFTER_LOGIN_ENABLED
+} from './constants/flags'
 
 export {
   BLIND_PEERS_LEARN_MORE,
