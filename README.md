@@ -44,8 +44,11 @@ function isOlderThanADay(timestamp) {
 
 This library has no production dependencies.
 
-### Dev Dependencies
-- tether-dev-docs
+## Depended Submodules
+
+The following sibling submodules must be present in the workspace (they are not declared as npm dependencies):
+
+- [`tether-dev-docs`](../tether-dev-docs)
 
 ## Related Projects
 
