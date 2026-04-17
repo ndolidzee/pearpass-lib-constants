@@ -1,4 +1,6 @@
-export const EXTENSION_ID = 'pdeffakfmcdnjjafophphgmddmigpejh'
+export const CHROMIUM_EXTENSION_ID = 'pdeffakfmcdnjjafophphgmddmigpejh'
+
+export const FIREFOX_EXTENSION_ID = 'pass@pears.com'
 
 export const MANIFEST_NAME = 'com.pears.pass'
 
