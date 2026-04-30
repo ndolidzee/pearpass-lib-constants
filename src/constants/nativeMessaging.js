@@ -2,6 +2,8 @@ export const CHROMIUM_EXTENSION_ID = 'pdeffakfmcdnjjafophphgmddmigpejh'
 
 export const FIREFOX_EXTENSION_ID = 'pass@pears.com'
 
+export const FIREFOX_NIGHTLY_EXTENSION_ID = 'pass-nightly@pears.com'
+
 export const MANIFEST_NAME = 'com.pears.pass'
 
 export const IPC_SOCKET_DIR_NAME = '.pearpass'
