@@ -91,3 +91,8 @@ export {
 } from './constants/autoLock'
 
 export { MAX_IMPORT_RECORDS } from './constants/import'
+
+export {
+  GITHUB_LATEST_RELEASE_URLS,
+  VERSION_CHECK_CONFIG
+} from './constants/versionCheck'
