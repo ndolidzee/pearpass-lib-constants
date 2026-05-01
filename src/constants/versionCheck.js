@@ -1,10 +1,6 @@
 export const GITHUB_LATEST_RELEASE_URLS = {
   MOBILE:
-    'https://api.github.com/repos/tetherto/pearpass-app-mobile/releases/latest',
-  DESKTOP:
-    'https://api.github.com/repos/tetherto/pearpass-app-desktop/releases/latest',
-  EXTENSION:
-    'https://api.github.com/repos/tetherto/pearpass-app-browser-extension/releases/latest'
+    'https://api.github.com/repos/tetherto/pearpass-app-mobile/releases/latest'
 }
 
 export const VERSION_CHECK_CONFIG = {
