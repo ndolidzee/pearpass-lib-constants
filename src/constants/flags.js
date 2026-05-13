@@ -10,3 +10,5 @@ export const MOBILE_DESIGN_VERSION = 2
 export const DESKTOP_DESIGN_VERSION = 2
 export const EXTENSION_DESIGN_VERSION = 2
 export const UNSUPPORTED = false
+export const DESKTOP_2FA_IMPORTS_ENABLED = false
+export const MOBILE_2FA_IMPORTS_ENABLED = false
