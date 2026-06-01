@@ -11,6 +11,8 @@
     "lint:fix": "eslint --fix ."
   },
   "devDependencies": {
+    "@tetherto/tether-dev-docs": "github:tetherto/tether-dev-docs",
+    "eslint": "^9.39.4",
     "husky": "^9.1.7"
   }
 }
